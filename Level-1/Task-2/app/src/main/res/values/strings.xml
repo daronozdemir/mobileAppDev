@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LogicaApp</string>
+    <string name="correct">The correct number of answer is: </string>
+</resources>
