@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnEqual" type="id" />
+    <item name="tvTitle" type="id" />
+    <item name="ivDice" type="id" />
+    <item name="btnHigher" type="id" />
+    <item name="btnLower" type="id" />
+</resources>
